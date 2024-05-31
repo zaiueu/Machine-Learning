@@ -1,4 +1,4 @@
-import pandas 
+import pandas as pd
 import matplotlib.pyplot as plt
 
 fakultas=["Bisnis", "D3Perhotelan", "ICT", "IlmuKomunikasi", "SenidanDesain"]
